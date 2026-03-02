@@ -11,21 +11,21 @@ safe: true
 
 
 # edit here to achieve your personal greatness
-url: http://nicolekeeney.com
-baseurl: /nicolejkeeney.github.io/
-title: Nicole Keeney
-author: Nicole Keeney
+url: http://classdjw1k.com
+baseurl: /classdjw1k.github.io/
+title: Classdjw1k
+author: DJANGANG  WILLY
 description: Personal website
 avatar: profile.png
-email: nicolejkeeney@gmail.com
-github: nicolejkeeney # username
+email: willydjangang@gmail.com
+github: classdjw1k # username
 #twitter: username
-linkedin: nicole-keeney
+linkedin: classdjw1k
 #stackoverflow: username   #e.g: users/2735833/proton1h1
 #medium: username #e.g: NobelPeaceOslo
 #Comment out if you don't want disqus
 #disqus: username
-google_analytics: UA-212263652-1
+#google_analytics: UA-212263652-1
 
 
 # needed for travis-ci build
